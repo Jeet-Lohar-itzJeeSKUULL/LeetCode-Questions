@@ -45,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
