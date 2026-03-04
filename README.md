@@ -52,4 +52,5 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 <!---LeetCode Topics End-->
