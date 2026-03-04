@@ -7,7 +7,7 @@ public:
             freq[c-'a']++;
 
         for(int i = 0; i < s.size(); i++){
-            if(freq[s[i]-'a'] == 0)
+            if(freq[s[i]-'a'] == 1)
                 return i;
         }
 
